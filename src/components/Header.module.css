@@ -25,11 +25,13 @@ header h1 {
   margin: 0;
 }
 
-.paragraph {
+header p {
   text-align: center;
   color: #a39191;
   margin: 0;
-}@media (min-width: 768px) {
+}
+
+@media (min-width: 768px) {
   header {
     margin-bottom: 4rem;
   }
